@@ -18,7 +18,8 @@ namespace PhoneBookTests
         List<Contact> contacts = new List<Contact>(){
                 new Contact("Test", "Test", "0123913201", "Test@gmail.com"),
                 new Contact("Test2", "Test2", "0123913201", "Test@gmail.com")
-            };
+        };
+
         IService contactService;
         PhoneBookDBContext context;
 
