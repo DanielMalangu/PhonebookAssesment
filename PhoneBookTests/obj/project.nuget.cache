@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Cxnqij/BeDO0dz7ErQGum+TE7EsbiGhh++ucNd2GmB1J4LpC4qE1yeFVSx47BEFlgsMdRgdPLBYcsL/W5tycuA==",
+  "dgSpecHash": "kvlhwh+GGcFSDB918S59tXkJOlajUT6uHTwTkrxFRprTVXCKaAljAcaFUMpsjntjrNKcJL1LK7NTUt4dGnMYcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel Malangu\\source\\repos\\PhonebookAssesment\\PhoneBookTests\\PhoneBookTests.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.8\\microsoft.entityframeworkcore.3.1.8.nupkg.sha512",
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.8\\microsoft.entityframeworkcore.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.8\\microsoft.entityframeworkcore.analyzers.3.1.8.nupkg.sha512",
+    "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.8\\microsoft.entityframeworkcore.inmemory.3.1.8.nupkg.sha512",
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.8\\microsoft.entityframeworkcore.relational.3.1.8.nupkg.sha512",
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.8\\microsoft.entityframeworkcore.sqlserver.3.1.8.nupkg.sha512",
     "C:\\Users\\Daniel Malangu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
